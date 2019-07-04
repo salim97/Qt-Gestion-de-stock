@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   width="32"
+   height="32"
+   version="1.1"
+   sodipodi:docname="file-pdf.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-24.548693"
+     inkscape:cy="14.815474"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <defs
+     id="defs10" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#797979;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 19.287109,1 H 4.3339842 V 31 H 27.666016 V 9.3789062 Z"
+     id="path822"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#797979;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 27.666016,9.378906 19.287109,1 v 8.378906 z"
+     id="rect816"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path865"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6.8269242,14.870514 h 2.0225304 c 0.8801752,0 1.7603504,0.224725 2.4345274,0.861448 0.674177,0.636722 1.123628,1.685442 1.123628,3.258521 0,1.573079 -0.449451,2.603071 -1.123628,3.239794 -0.674177,0.636722 -1.5543522,0.898902 -2.4345274,0.898902 v 5.505777 H 6.8269242 Z m 2.0225304,6.198681 c 0.6179953,0 1.0112651,-0.112363 1.2359904,-0.430724 0.224726,-0.299634 0.280907,-0.805267 0.280907,-1.573079 0,-0.767813 -0.05618,-1.3109 -0.280907,-1.647988 C 9.8607197,17.080315 9.4674499,16.930498 8.8494546,16.930498 Z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path867"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 13.410682,28.634956 V 14.870514 h 1.591806 c 1.872713,0 2.883978,0.374542 3.427065,1.423262 0.52436,1.048719 0.599268,2.771616 0.599268,5.468323 0,2.696707 -0.07491,4.400876 -0.599268,5.449595 -0.543087,1.04872 -1.554352,1.423262 -3.427065,1.423262 z m 2.02253,-2.02253 c 0.692904,0 1.086174,-0.07491 1.292172,-0.749085 0.09364,-0.318362 0.168544,-0.805267 0.187271,-1.460717 0.01873,-0.655449 0.01873,-1.535625 0.01873,-2.659253 0,-1.123627 0,-2.003803 -0.01873,-2.659252 -0.01873,-0.636723 -0.09364,-1.123628 -0.187271,-1.460717 -0.205998,-0.655449 -0.599268,-0.730358 -1.292172,-0.730358 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path869"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 25.173077,16.949225 h -2.790343 v 3.614337 h 1.872713 v 2.078712 h -1.872713 v 5.992682 h -2.02253 V 14.870514 h 4.812873 z" />
+</svg>

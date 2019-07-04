@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   height="32"
+   width="32"
+   id="svg7384"
+   sodipodi:docname="hint_alert.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-8.5423729"
+     inkscape:cy="5.1525424"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <defs
+     id="defs10" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g827">
+    <path
+       id="path822"
+       d="M 16 0 C 12.895149 0 10.240552 1.1012446 8.0371094 3.3046875 C 5.8837448 5.4580522 4.8066406 8.0885081 4.8066406 11.193359 C 4.8066406 15.099463 6.4102266 18.153979 9.6152344 20.357422 L 9.6152344 24.037109 C 9.6152344 24.487813 9.7659367 24.863593 10.066406 25.164062 C 10.366876 25.464532 10.742655 25.615234 11.193359 25.615234 L 20.806641 25.615234 C 21.257345 25.615234 21.633124 25.464532 21.933594 25.164062 C 22.234063 24.863593 22.384766 24.487813 22.384766 24.037109 L 22.384766 20.357422 C 25.589774 18.153979 27.193359 15.099463 27.193359 11.193359 C 27.193359 8.0885081 26.090162 5.4580522 23.886719 3.3046875 C 21.733354 1.1012446 19.104851 -1.0255653e-16 16 0 z M 11.193359 28.845703 L 11.193359 30.421875 C 11.193359 30.87258 11.342109 31.248359 11.642578 31.548828 C 11.943047 31.849297 12.318827 32 12.769531 32 L 19.230469 32 C 19.681173 32 20.056953 31.849297 20.357422 31.548828 C 20.657891 31.248359 20.806641 30.87258 20.806641 30.421875 L 20.806641 28.845703 L 11.193359 28.845703 z "
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:25.29999924px;fill:#ffff00;fill-opacity:0.50196081;stroke:none;stroke-width:1.24804688px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 20.58216,17.727699 q 3.455399,-2.403755 3.455399,-6.535211 0,-3.3051642 -2.403756,-5.6338027 Q 19.305165,3.1549294 16,3.1549294 q -3.305164,0 -5.70892,2.4037559 -2.3286384,2.3286385 -2.3286384,5.6338027 0,4.131456 3.4553994,6.535211 l 1.352112,0.976526 v 3.680751 h 6.460094 V 18.704225 Z M 8.0375589,3.3051641 Q 11.342723,-1.9625e-7 16,-1.9625e-7 q 4.657277,0 7.887324,3.30516429625 3.305165,3.230047 3.305165,7.8873239 0,5.859155 -4.807512,9.164319 v 3.680752 q 0,0.676056 -0.450704,1.12676 -0.450705,0.450704 -1.126761,0.450704 h -9.615023 q -0.676057,0 -1.126761,-0.450704 -0.4507043,-0.450704 -0.4507043,-1.12676 V 20.356807 Q 4.807512,17.051643 4.807512,11.192488 q 0,-4.6572769 3.2300469,-7.8873239 z M 11.192489,30.422535 V 28.84507 h 9.615023 v 1.577465 q 0,0.676057 -0.450704,1.126761 Q 19.906104,32 19.230047,32 h -6.460094 q -0.676056,0 -1.12676,-0.450704 -0.450704,-0.450704 -0.450704,-1.126761 z"
+       id="path1226"
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:25.29999924px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.24804688px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AddFournisseurs</class>
+ <widget class="QDialog" name="AddFournisseurs">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>431</width>
+    <height>429</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_16">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_13">
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout">
+         <item>
+          <widget class="QLabel" name="label_Code">
+           <property name="text">
+            <string>Code :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Code"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_4">
+         <item>
+          <widget class="QLabel" name="label_Nom">
+           <property name="text">
+            <string>Nom et prénom :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Nom"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_5">
+         <item>
+          <widget class="QLabel" name="label_Adresse">
+           <property name="text">
+            <string>Adresse :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Adresse"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_7">
+         <item>
+          <widget class="QLabel" name="label_7">
+           <property name="text">
+            <string>Localité :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Localite"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_6">
+         <item>
+          <widget class="QLabel" name="label_Wilaya">
+           <property name="text">
+            <string>Wilaya :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QComboBox" name="comboBox_Wilaya">
+           <property name="editable">
+            <bool>false</bool>
+           </property>
+           <item>
+            <property name="text">
+             <string>Oran</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Chlef</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Laghouat</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Oum El Bouaghi</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Batna</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Béjaia</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Biskra</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Blida</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Bouira</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tamanrasset</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tébessa</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tlemcen</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tiaret</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tizi Ouzou</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Djelfa</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Jijel</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Sétif</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Saida</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Skikda</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Sidi Bel Abbés</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Annaba</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Guelma</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Constantine</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Médéa</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Mostaguanem</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>M'sila</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Mascara</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Ouargla</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>El Bayedh</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Illizi</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Bordj Bou Arreridj</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Boumerdés</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>El Tarf</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tindouf</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tissemsilt</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>El Oued</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Khenchla</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Souk Ahras</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Tipaza</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Mila </string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Ain Defla</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Ghardaia</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Rélizaine</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Naàma</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Ain Témouchent</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Adrar</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Alger</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+         <item>
+          <spacer name="verticalSpacer_2">
+           <property name="orientation">
+            <enum>Qt::Vertical</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>20</width>
+             <height>40</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="Line" name="line">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_15">
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QLabel" name="label_4">
+           <property name="text">
+            <string>Téléphone :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Telephone"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_12">
+         <item>
+          <widget class="QLabel" name="label_6">
+           <property name="text">
+            <string>Fax :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Fax"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_3">
+         <item>
+          <widget class="QLabel" name="label_5">
+           <property name="text">
+            <string>E-Mail :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_E_Mail"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_9">
+         <item>
+          <widget class="QLabel" name="label">
+           <property name="text">
+            <string>Registre :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_RC"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_11">
+         <item>
+          <widget class="QLabel" name="label_3">
+           <property name="text">
+            <string>ART IMPO :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Art_IMPO"/>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_8">
+         <item>
+          <widget class="QLabel" name="label_2">
+           <property name="text">
+            <string>Numéro FISCAL :</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_Fiscal"/>
+         </item>
+         <item>
+          <spacer name="verticalSpacer">
+           <property name="orientation">
+            <enum>Qt::Vertical</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>20</width>
+             <height>40</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QDialogButtonBox" name="buttonBox">
+       <property name="standardButtons">
+        <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

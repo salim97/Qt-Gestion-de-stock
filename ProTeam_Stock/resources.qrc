@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/Images/paper_1.svg</file>
+        <file>Assets/Images/paper_2.svg</file>
+        <file>Assets/Images/paper_3.svg</file>
+        <file>Assets/Images/paper_4.svg</file>
+        <file>Assets/Images/paper_5.svg</file>
+        <file>Assets/Images/paper_6.svg</file>
+        <file>Assets/Images/icons/add.svg</file>
+        <file>Assets/Images/icons/client.svg</file>
+        <file>Assets/Images/icons/clock.svg</file>
+        <file>Assets/Images/icons/close.svg</file>
+        <file>Assets/Images/icons/coast-calculation.svg</file>
+        <file>Assets/Images/icons/down-arrow.svg</file>
+        <file>Assets/Images/icons/edit.svg</file>
+        <file>Assets/Images/icons/file-csv.svg</file>
+        <file>Assets/Images/icons/file-csv-export.svg</file>
+        <file>Assets/Images/icons/file-csv-import.svg</file>
+        <file>Assets/Images/icons/file-pdf.svg</file>
+        <file>Assets/Images/icons/hint_alert.svg</file>
+        <file>Assets/Images/icons/hint_normal.svg</file>
+        <file>Assets/Images/icons/hint_warnning.svg</file>
+        <file>Assets/Images/icons/history.svg</file>
+        <file>Assets/Images/icons/home.svg</file>
+        <file>Assets/Images/icons/left-arrow.svg</file>
+        <file>Assets/Images/icons/ok.svg</file>
+        <file>Assets/Images/icons/print.svg</file>
+        <file>Assets/Images/icons/print-simple.svg</file>
+        <file>Assets/Images/icons/print-small.svg</file>
+        <file>Assets/Images/icons/refresh.svg</file>
+        <file>Assets/Images/icons/right-arrow.svg</file>
+        <file>Assets/Images/icons/search.svg</file>
+        <file>Assets/Images/icons/service.svg</file>
+        <file>Assets/Images/icons/state-104.svg</file>
+        <file>Assets/Images/icons/statistics.svg</file>
+        <file>Assets/Images/icons/stock.svg</file>
+        <file>Assets/Images/icons/supplier.svg</file>
+        <file>Assets/Images/icons/up-arrow.svg</file>
+        <file>Assets/Images/logo_sudo_dev.svg</file>
+        <file>Templates/BonDeLivraison.xml</file>
+        <file>Templates/Facture.xml</file>
+        <file>Templates/BonDeReception.xml</file>
+        <file>Templates/Rapport Quotidien.xml</file>
+    </qresource>
+</RCC>

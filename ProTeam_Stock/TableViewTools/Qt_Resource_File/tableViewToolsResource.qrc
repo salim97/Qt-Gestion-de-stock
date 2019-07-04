@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/1469804931_Database-Upload.png</file>
+        <file>icon/1469804944_download-database.png</file>
+        <file>icon/Delete-96.png</file>
+        <file>icon/Filter Filled-100.png</file>
+        <file>icon/Visible-96.png</file>
+        <file>icon/Edit Column-96.png</file>
+    </qresource>
+</RCC>

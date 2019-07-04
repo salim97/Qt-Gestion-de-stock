@@ -1,0 +1,9 @@
+
+select vd.*, vd.Prix - ts.Prix_Achat AS benefice 
+from v_dialy vd, t_stock ts where type LIKE 'Sortie' AND ts.id == vd.idP
+
+create view if not exists tmp1 as select vd.*, vd.Prix - ts.Prix_Achat AS benefice , fe.Nom_Client, fe.idC
+from v_dialy vd, t_stock ts, t_historiqueFE fe where type LIKE 'Sortie' AND ts.id == vd.idP AND fe.idH == vd.idH
+
+
+select * from tmp1 t, t_client tc where tc.id == t.idC AND tc.Type LIKE 'Detail'

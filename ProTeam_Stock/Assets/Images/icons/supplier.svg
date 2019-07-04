@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   height="32"
+   width="32"
+   id="svg7384"
+   sodipodi:docname="supplier.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="37.128461"
+     inkscape:cy="10.399555"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <defs
+     id="defs10" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g894"
+     transform="translate(-8.73e-6,1.9682129)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path831"
+       d="M 7.6712511,7.1106212 1.5595073,15.379451 11.086637,15.259613 10.787042,7.0507022 Z"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path833"
+       d="M 13.004047,5.3130495 13.183804,15.43937 30.440493,15.319532 V 5.3729686 Z"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
+    <path
+       sodipodi:nodetypes="ssscccccccccccccsscccccccccc"
+       inkscape:connector-curvature="0"
+       id="path856"
+       d="m 13.024644,2.4238274 c -0.389312,0 -0.850873,0.00685 -1.123482,0.2771256 -0.26543,0.2631518 -0.331427,0.5818811 -0.331427,0.8426118 0,0.882887 -0.02247,2.6495458 -0.02247,2.6495458 H 7.0982752 L 0.66072146,14.548074 v 6.918778 H 2.2298518 c -6.854e-4,-0.0131 -0.00131,-0.02621 -0.00187,-0.03933 0.9253139,-5.453799 7.8147292,-5.08429 8.4317352,0 -5.62e-4,0.01311 -0.0012,0.02622 -0.0019,0.03933 h 10.637505 c 0.750839,-5.101383 7.898536,-4.992975 8.427894,6e-6 h 1.61608 L 31.335534,3.436834 C 31.335497,3.2204151 31.364687,2.8124628 31.170756,2.6185643 30.970245,2.4180837 30.554564,2.4238274 30.31691,2.4238274 Z m 0.722774,3.8460545 H 29.549196 V 14.548074 H 13.747418 Z M 7.8191763,8.0899232 h 2.0859321 v 6.4581508 h -6.984315 z"
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:25.29999924px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path825"
+       d="m 10.657841,21.466852 c 0.09638,-2.378636 -2.1500131,-4.478017 -4.5126534,-4.243018 -2.1558782,0.100466 -3.9874838,2.087655 -3.9153358,4.243018 0.04944,1.172931 0.6001261,2.46655 1.5955445,3.227789 1.6738479,1.484674 4.5030719,1.173212 5.8479372,-0.607097 0.6489995,-0.714399 0.9238155,-1.734303 0.9845075,-2.620692 z M 6.4447829,19.379048 c 1.4239996,-0.04271 2.5314919,1.578629 1.9425648,2.88762 C 7.8765648,23.791618 5.5366869,24.00827 4.7247806,22.6299 3.7256595,21.320902 4.8825339,19.379746 6.4447829,19.379048 Z"
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:25.29999924px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path823"
+       d="m 29.723336,21.466852 c 0.09681,-2.379178 -2.150613,-4.477266 -4.512653,-4.243018 -2.156662,0.09996 -3.987313,2.087558 -3.915336,4.243018 0.08011,1.142676 0.598806,2.474356 1.609037,3.228397 1.674581,1.494198 4.498859,1.15937 5.849425,-0.607705 0.636702,-0.718571 0.938847,-1.706182 0.969527,-2.620692 z m -4.198078,-2.087804 c 1.517626,-0.07563 2.60343,1.762275 1.859269,3.072301 -0.682542,1.554917 -3.277483,1.442381 -3.801835,-0.184681 -0.570345,-1.321839 0.491268,-2.937682 1.942566,-2.88762 z"
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:25.29999924px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
