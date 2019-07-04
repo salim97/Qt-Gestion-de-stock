@@ -1,6 +1,7 @@
 #include "client.h"
 #include "ui_client.h"
 
+#include <QAction>
 #include <etat104versement.h>
 #include <v_historique.h>
 

@@ -1,6 +1,7 @@
 #include "fournisseurs.h"
 #include "ui_fournisseurs.h"
 
+#include <QAction>
 #include <etat104versement.h>
 
 Fournisseurs::Fournisseurs(QWidget *parent) :

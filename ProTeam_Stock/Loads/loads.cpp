@@ -2,6 +2,8 @@
 #include "loads.h"
 #include "ui_loads.h"
 
+#include <QAction>
+
 Loads::Loads(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::Loads)

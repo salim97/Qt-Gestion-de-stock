@@ -2,6 +2,8 @@
 #include "stock.h"
 #include "ui_stock.h"
 
+#include <QAction>
+
 Stock::Stock(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::Stock)
